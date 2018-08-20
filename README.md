@@ -7,3 +7,9 @@ If reading pixel data from material.mainTexture returns grey color, that means i
 It seems not to be possible to directly convert from Texture to Texture2D. You can solve the problem by first converting the Texture into RenderTexture using Graphics.Blit() and then save it as Texture2D.
 
 Note: render the texture on a RenderTexture and then use Texture2D.ReadPixels() to read it to a Texture2D (this step is quite slow).
+
+
+
+RenderCamera
+-----------------
+This is a script for the capture the screen content. (You may need to add this code to the camera object in Unity. 
