@@ -13,3 +13,10 @@ Note: render the texture on a RenderTexture and then use Texture2D.ReadPixels() 
 RenderCamera
 -----------------
 This is a script for the capture the screen content. (You may need to add this code to the camera object in Unity. 
+
+
+PPM saving
+----------------
+This a function to save the RGB color to .ppm file format
+
+
