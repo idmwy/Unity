@@ -17,6 +17,6 @@ This is a script for the capture the screen content. (You may need to add this c
 
 PPM saving
 ----------------
-This a function to save the RGB color to .ppm file format. (Android device)
+This is a script function to save the RGB color to .ppm file format. (Android device)
 
 
